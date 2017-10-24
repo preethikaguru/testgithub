@@ -1,0 +1,11 @@
+ #include<iostream.h>
+ #include<conio.h>
+ void main()
+ {
+ enum i {hi ,hii,tiii};
+ typedef double x,y;
+ x hello='a',hell='g';
+ clrscr();
+ cout<<0<<tiii<<hello<<hell;
+ getch();
+ }
